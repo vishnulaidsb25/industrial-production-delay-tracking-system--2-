@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Production Delay Tracking System",
+  "description": "Comprehensive industrial operations management platform for tracking production targets, logging equipment delays, root cause analysis, machine downtime, material inventory, and workforce availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
